@@ -1,2 +1,1 @@
-# Coursera
 Repository for Assignments.
